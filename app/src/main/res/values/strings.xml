@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TodoAppKPC</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="empty">Your todo is empty. Let\'s create a new one</string>
+    <string name="newTodo">New Todo</string>
+    <string name="add">Add</string>
+    <string name="high">High Priority</string>
+    <string name="medium">Medium Priority</string>
+    <string name="low">Low Priority</string>
+</resources>
